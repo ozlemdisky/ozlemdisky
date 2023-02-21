@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ0YzliNTg2Yjg3MTExZDFlZDllNmExNzJiYjg4N2U4MzMzNzczMCZjdD1n/QX15lZJbifeQPzcNDt/giphy.gif"
+align="right" width="200" height="210"/>
 
-<!--
-**ozlemdisky/ozlemdisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hi there, I'm Özlem :blush:
 
-Here are some ideas to get you started:
+#### Basical a Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+### Tech I use
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" hidth="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" hidth="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" hidth="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" hidth="25">
