@@ -3,7 +3,9 @@ align="right" width="200" height="210"/>
 
 ### hi there, I'm Özlem :blush:
 
-#### Basical a Frontend Developer
+#### Basical a Frontend Developer. 
+I am a translator. I started to develop myself in the frontend field. My goal is to make a career as a professional frontend developer.
+
 
 <br/>
 <br/>
