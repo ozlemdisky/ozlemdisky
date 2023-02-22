@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ0YzliNTg2Yjg3MTExZDFlZDllNmExNzJiYjg4N2U4MzMzNzczMCZjdD1n/QX15lZJbifeQPzcNDt/giphy.gif"
 align="right" width="200" height="210"/>
 
-### hi there, I'm Özlem :hatched_chick:
+### hi there, I'm Özlem :hatching_chick:
 
 #### Basical a Frontend Developer. 
 I am a translator. I started to develop myself in the frontend field. My goal is to make a career as a professional frontend developer.
